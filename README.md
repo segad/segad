@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @segad
 - 🌱 I’m currently learning Java
-- 💞️ I currently work at Ziegler d.o.o. as electrical engineer
+- 💞️ I currently work at Ziegler d.o.o. as electrical and software engineer
